@@ -3,7 +3,12 @@
 Demo repo for showing CI/CD &amp; publication to GH Pages.
 
 
-## Resources
+## The Workshop
+
+* [github.com/rkratky/docs-as-code](https://github.com/rkratky/docs-as-code)
+
+
+## General Resources
 
 * Git(Hub)
   * [Git Homepage](https://git-scm.com/)
