@@ -17,6 +17,7 @@ Demo repo for showing CI/CD &amp; publication to GH Pages.
   * GitHub: [Creating a personal access token](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)
 
 * Travis
+  * [travis-ci.org](https://travis-ci.org/)
   * [GitHub Pages Deployment](https://docs.travis-ci.com/user/deployment/pages/)
 
 * AsciiDoc(tor)
